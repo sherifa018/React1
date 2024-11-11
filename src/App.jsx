@@ -1,5 +1,5 @@
 // import React from 'react'
-import Head from "./head.jsx";
+import Head from "./Head.jsx";
 import "./index.css";
 import Features from "./Features.jsx";
 import Footer from "./Footer.jsx";
